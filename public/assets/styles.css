@@ -1,0 +1,11 @@
+/** Terminal */
+.terminal-header {font-weight: 600;font-size: 18px;}
+.terminal-body {margin-top: 40px;}
+.terminal-container .card {padding: 10px;}
+.terminal-container .card .header .title{
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+.terminal-container .card .input-lg {font-size: 30px;font-weight: 600;}
+.terminal-keyboard .container{width:218px;}
+.terminal-keyboard button {font-size:20px !important;}

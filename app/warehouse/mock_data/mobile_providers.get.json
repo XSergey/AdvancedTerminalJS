@@ -1,0 +1,11 @@
+[
+    {
+        "mpId" : 1,
+        "mpName" : "Билайн",
+        "mpAlias" : "bilain",
+        "mpIcon" : "http://www.softrew.ru/uploads/posts/2016-07/1468309578_kak-perevesti-dengi-s-bilayna-na-bilayn.png",
+        "mpActive" : true,
+        "mpPhoneMasks" : []
+    },
+    
+]
